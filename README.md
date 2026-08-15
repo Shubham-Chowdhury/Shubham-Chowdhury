@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero_animation.gif" alt="Shubham Chowdhury Hero Animation" width="100%" style="border-radius: 12px; max-width: 900px; box-shadow: 0 8px 32px rgba(255, 42, 42, 0.4);" />
+  <img src="assets/hero_animation.gif" alt="Shubham Chowdhury Hero Animation" style="border-radius: 12px; height: 280px; max-height: 280px; max-width: 100%; object-fit: cover; box-shadow: 0 8px 32px rgba(255, 42, 42, 0.4);" />
 </div>
 
 <br>
