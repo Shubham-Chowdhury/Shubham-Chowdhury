@@ -87,13 +87,13 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Chowdhury&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Chowdhury&show_icons=true&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubham-Chowdhury&show_icons=true&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="GitHub Stats" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Chowdhury&layout=compact&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubham-Chowdhury&layout=compact&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="Top Languages" width="49%" />
 </div>
 
 <br>
