@@ -1,7 +1,5 @@
 <div align="center">
-  <video src="assets/hero_video.mp4" poster="assets/hero_banner.jpg" width="100%" controls autoplay loop muted playsinline style="border-radius: 12px; max-width: 900px; box-shadow: 0 8px 32px rgba(255, 42, 42, 0.4);">
-    <img src="assets/hero_banner.jpg" alt="Shubham Chowdhury Hero Banner" width="100%" style="border-radius: 12px; max-width: 900px; box-shadow: 0 8px 32px rgba(255, 42, 42, 0.4);" />
-  </video>
+  <img src="assets/hero_animation.gif" alt="Shubham Chowdhury Hero Animation" width="100%" style="border-radius: 12px; max-width: 900px; box-shadow: 0 8px 32px rgba(255, 42, 42, 0.4);" />
 </div>
 
 <br>
@@ -15,14 +13,14 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/shubhamchowdhury">
-    <img src="https://komarev.com/ghpvc/?username=shubhamchowdhury&color=FF2A2A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Shubham-Chowdhury">
+    <img src="https://komarev.com/ghpvc/?username=Shubham-Chowdhury&color=FF2A2A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-  <a href="https://github.com/shubhamchowdhury?tab=followers">
-    <img src="https://img.shields.io/github/followers/shubhamchowdhury?label=FOLLOWERS&logo=github&style=for-the-badge&color=FF4D4D&labelColor=1F1F1F" alt="GitHub Followers" />
+  <a href="https://github.com/Shubham-Chowdhury?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shubham-Chowdhury?label=FOLLOWERS&logo=github&style=for-the-badge&color=FF4D4D&labelColor=1F1F1F" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/shubhamchowdhury?tab=repositories">
-    <img src="https://img.shields.io/github/stars/shubhamchowdhury?label=TOTAL+STARS&logo=github&style=for-the-badge&color=FF7F7F&labelColor=1F1F1F" alt="GitHub Stars" />
+  <a href="https://github.com/Shubham-Chowdhury?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Shubham-Chowdhury?label=TOTAL+STARS&logo=github&style=for-the-badge&color=FF7F7F&labelColor=1F1F1F" alt="GitHub Stars" />
   </a>
 </div>
 
@@ -46,7 +44,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <a href="https://github.com/shubhamchowdhury" target="_blank" title="⚡ Click to visit Shubham's GitHub Profile">
+      <a href="https://github.com/Shubham-Chowdhury" target="_blank" title="⚡ Click to visit Shubham's GitHub Profile">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/profile_avatar.jpg">
           <source media="(prefers-color-scheme: light)" srcset="assets/hero_banner.jpg">
@@ -88,20 +86,20 @@
 <h2 align="center">📊 GitHub Activity & Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamchowdhury&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamchowdhury&show_icons=true&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Chowdhury&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham-Chowdhury&show_icons=true&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="GitHub Stats" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchowdhury&layout=compact&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Chowdhury&layout=compact&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="Top Languages" width="49%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamchowdhury&theme=react-dark&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&title_color=FF2A2A&line=FF2A2A&point=FF4D4D&area=true&area_color=FF7F7F" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Chowdhury&theme=react-dark&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&title_color=FF2A2A&line=FF2A2A&point=FF4D4D&area=true&area_color=FF7F7F" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
@@ -118,9 +116,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamchowdhury/shubhamchowdhury/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamchowdhury/shubhamchowdhury/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/shubhamchowdhury/shubhamchowdhury/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham-Chowdhury/Shubham-Chowdhury/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham-Chowdhury/Shubham-Chowdhury/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Shubham-Chowdhury/Shubham-Chowdhury/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -138,9 +136,6 @@
   <a href="https://instagram.com/shubhamchowdhury" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF7F7F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
-  <a href="https://tiktok.com/@shubhamchowdhury" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-FF2A2A?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
   <a href="https://youtube.com/@shubhamchowdhury" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF4D4D?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
@@ -153,8 +148,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#FF2A2A&custom_color_2=#2A080C&height=120&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#FF6B6B&custom_color_2=#FFF0F0&height=120&section=footer">
-    <img alt="Footer Waving Render" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#FF2A2A&custom_color_2=#2A080C&height=120&section=footer" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#8B0000&custom_color_2=#0D1117&height=120&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#FF2A2A&custom_color_2=#1A0305&height=120&section=footer">
+    <img alt="Footer Waving Render" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#8B0000&custom_color_2=#0D1117&height=120&section=footer" width="100%">
   </picture>
 </div>
