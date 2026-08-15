@@ -97,7 +97,7 @@
 
 <br>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- <h2 align="center">🐍 Contribution Snake</h2> -->
 
 <!--
 ================================================================================
@@ -107,11 +107,23 @@
 ================================================================================
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 8px; border: 1px solid #FF2A2A; box-shadow: 0 0 15px rgba(255, 42, 42, 0.3);" />
 </div>
 
-<br>
+<br> -->
+
+
+
+<div align="center">
+
+  
+  ![snake gif](https://github.com/Shubham-Chowdhury/Shubham-Chowdhury/blob/output/github-snake-dark.svg)
+
+  
+</div>
+
+
 
 <h2 align="center">📫 Let's Connect & Collaborate</h2>
 
@@ -139,4 +151,12 @@
     <img alt="Footer Waving Render" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#8B0000&custom_color_2=#0D1117&height=120&section=footer" width="100%">
   </picture>
 </div>
-![snake gif](https://github.com/Shubham-Chowdhury/Shubham-Chowdhury/blob/output/github-snake-dark.svg)
+
+
+<!-- <div align="center">
+
+  
+  ![snake gif](https://github.com/Shubham-Chowdhury/Shubham-Chowdhury/blob/output/github-snake-dark.svg)
+
+  
+</div> -->
