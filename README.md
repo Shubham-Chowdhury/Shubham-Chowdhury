@@ -86,14 +86,20 @@
 <h2 align="center">📊 GitHub Activity & Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Chowdhury&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubham-Chowdhury&show_icons=true&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="GitHub Stats" width="49%" />
+  <img src="assets/mechanical_clock.gif" alt="Mechanical System Clock" width="100%" style="border-radius: 14px; max-width: 760px; border: 2px solid #FF2A2A; box-shadow: 0 0 25px rgba(255, 42, 42, 0.5);" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shubham-Chowdhury&layout=compact&title_color=FF2A2A&text_color=FF7F7F&icon_color=FF2A2A&bg_color=0D1117&border_color=FF2A2A&hide_border=false" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Chowdhury&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham-Chowdhury&theme=dracula" alt="Profile Summary Stats" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham-Chowdhury&theme=dracula" alt="Productive Commit Time" width="100%" />
 </div>
 
 <br>
@@ -115,11 +121,7 @@
 -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham-Chowdhury/Shubham-Chowdhury/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubham-Chowdhury/Shubham-Chowdhury/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Shubham-Chowdhury/Shubham-Chowdhury/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 8px; border: 1px solid #FF2A2A; box-shadow: 0 0 15px rgba(255, 42, 42, 0.3);" />
 </div>
 
 <br>
