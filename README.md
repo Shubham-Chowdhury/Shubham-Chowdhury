@@ -86,20 +86,7 @@
 <h2 align="center">📊 GitHub Activity & Statistics</h2>
 
 <div align="center">
-  <img src="assets/mechanical_clock.gif" alt="Mechanical System Clock" width="100%" style="border-radius: 14px; max-width: 760px; border: 2px solid #FF2A2A; box-shadow: 0 0 25px rgba(255, 42, 42, 0.5);" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Chowdhury&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham-Chowdhury&theme=dracula" alt="Profile Summary Stats" width="49%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham-Chowdhury&theme=dracula" alt="Productive Commit Time" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Chowdhury&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="100%" style="max-width: 600px;" />
 </div>
 
 <br>
@@ -129,20 +116,17 @@
 <h2 align="center">📫 Let's Connect & Collaborate</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/shubhamchowdhury" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham-141013-chowdhury/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF2A2A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/shubhamchowdhury" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/X-FF4D4D?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://instagram.com/shubhamchowdhury" target="_blank">
+  <a href="https://www.instagram.com/10__shubham__10/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF7F7F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
-  <a href="https://youtube.com/@shubhamchowdhury" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF4D4D?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:shubhamchowdhury@example.com">
-    <img src="https://img.shields.io/badge/Email-FF7F7F?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+  <a href="mailto:laptop.sc.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF2A2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
