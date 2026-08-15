@@ -139,3 +139,4 @@
     <img alt="Footer Waving Render" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#8B0000&custom_color_2=#0D1117&height=120&section=footer" width="100%">
   </picture>
 </div>
+![snake gif](https://github.com/Shubham-Chowdhury/Shubham-Chowdhury/blob/output/github-snake-dark.svg)
